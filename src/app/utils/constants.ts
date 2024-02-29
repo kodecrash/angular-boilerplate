@@ -1,0 +1,2 @@
+export const LOGIN_URL: string =  "https://my-json-server.typicode.com/kodecrash/Javascript/users";
+export const GET_ALL_TICKETS_URL: string = "https://my-json-server.typicode.com/kodecrash/Javascript/tickets";
